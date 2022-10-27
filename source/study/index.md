@@ -19,16 +19,17 @@ title: 我的学习之路
 
 | **项目名称**                                                |            **说明**            |
 | :---------------------------------------------------------- | :----------------------------: |
-| chhCpp                                                      |          学习C++仓库           |
+| [chhCpp](https://github.com/CHH3213/chhCpp)                                                      |          学习C++仓库           |
 | [java_learning](https://gitee.com/caohuanhui/java_learning) |          学习Java仓库          |
 | chhPython                                                   |         学习Python仓库         |
 | [chhRobotics](https://github.com/CHH3213/chhRobotics)       | 学习自动驾驶、控制理论相关仓库 |
 | [chhML](https://github.com/CHH3213/chhML)                   |        学习机器学习仓库        |
-| [chhML](https://github.com/CHH3213/chhRL)                   |        学习强化学习仓库        |
+| [chhRL](https://github.com/CHH3213/chhRL)                   |        学习强化学习仓库        |
 | chhVim                                                      |        学习vim操作仓库         |
 | chhDocker                                                   |         学习docker仓库         |
 | chhShell                                                    |         学习Shell仓库          |
 | chhROS                                                      |          学习ROS仓库           |
+|[chhTricks](https://github.com/CHH3213/chhTricks) |存放一些有意思的tricks
 
 # 总的路线图
 
