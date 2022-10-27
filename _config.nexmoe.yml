@@ -5,7 +5,7 @@ background: # 既是博客的背景，又是文章默认头图
     width: 1280
     height: 726
 favicon:
-  href: https://s2.loli.net/2022/10/27/5b8w4YpIvSgKUF2.png # 网站图标
+  href: https://s2.loli.net/2022/10/27/ifRX1BdH46hmTlr.png # 网站图标
   type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 function: # 功能开关，可选值（true,false）
