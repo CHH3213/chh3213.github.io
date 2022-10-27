@@ -2,7 +2,9 @@
 title: ubuntu20.04配置Qv2ray
 tags: VPN
 date: 2022-04-15 22:48:35
-category: VPN教程
+category: 
+    - [VPN教程]
+    - [实用技巧]
 cover: http://api.mtyqx.cn/tapi/random.php?456
 coverWidth: 1200
 coverHeight: 750
