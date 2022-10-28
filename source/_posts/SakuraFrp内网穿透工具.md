@@ -1,7 +1,7 @@
 ---
 title: 内网穿透工具——SakuraFrp
 top: false
-cover: http://api.mtyqx.cn/tapi/random.php?
+cover: http://api.mtyqx.cn/tapi/random.php?564616526
 coverWidth: 1200
 coverHeight: 750
 toc: true

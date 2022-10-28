@@ -1,7 +1,7 @@
 ---
 title: hexo+gitee/github进行博客搭建
 top: false
-cover: http://api.mtyqx.cn/tapi/random.php?
+cover: http://api.mtyqx.cn/tapi/random.php?5461651651
 coverWidth: 1200
 coverHeight: 750
 toc: true
