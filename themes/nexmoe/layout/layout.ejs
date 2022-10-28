@@ -118,7 +118,27 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/9000.0.1/plugins/line-numbers/prism-line-numbers.min.js"></script> -->
     <!--直接下载脚本引入-->>
     <script src="/js/prism.js" async></script>
+    
+    <!--sakana模拟器-->
+    <meta name="viewport" content="width=device-width">
+    <style>
+        html {
+            background: #CCC;
+        }
 
+        html .sakana-box {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+
+            transform-origin: 100% 100%;
+            /* 从右下开始变换 */
+        }
+    </style>
+    <div class="sakana-box"></div>
+    <script src="https://cdn.jsdelivr.net/npm/sakana@1.0.8"></script>
+    <script src="js/sakana.js"></script>
+    
 </body>
 
 </html>
