@@ -1,4 +1,9 @@
 <% if (page.hide_copyright !== true && theme.slotCopyright || page.copyright) { %>
+    <!-- 文章分享 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
+    <div class="social-share" data-mode="prepend" data-disabled="tencent,diandian"></div>
+
     <div class="nexmoe-post-copyright">
         <strong><%- __('copyright.author') %>：</strong><%= config.author %><br>
         <strong><%- __('copyright.permalink') %>：</strong><%- link_to(page.permalink, page.permalink, {external: true}) %><br>
@@ -8,4 +13,5 @@
             <%- theme.slotCopyright %>
         <% } %>
     </div>
+
 <% } %>
