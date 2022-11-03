@@ -1,5 +1,6 @@
 ---
 title: 路漫漫其修远兮
+cover: https://s2.loli.net/2022/11/03/U2afdoZGcNL6Mmy.jpg
 ---
 
 
