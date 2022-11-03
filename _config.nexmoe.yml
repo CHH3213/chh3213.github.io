@@ -1,6 +1,6 @@
 avatar: https://img-blog.csdnimg.cn/78ebd04c9eb54d858b4aa57f4f13c04b.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-    path: https://s2.loli.net/2022/10/27/YNnv14DLM8KwfVq.jpg
+    path: https://s2.loli.net/2022/11/02/whKdHaIFkJ56xpE.jpg
     # path: /img/punk-girl.jpg
     width: 1280
     height: 726
@@ -40,7 +40,7 @@ menu:
     分类归档:
         - /archive.html
         - icon-container
-    学习之路:
+    学习之旅:
         - /study/
         - icon-battlenet
     # 思维导图:
