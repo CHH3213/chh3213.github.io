@@ -11,6 +11,9 @@ abbrlink: about
 - 🌱 I’m currently learning  RL, Python, C++, Control Theory...
 - 📫 Reach me through chh3213@foxmail.com
 
+![](/img/junzi.jpg#pic_center)
+
+<!-- <center><img src="img/junzi.jpg" width=50%></center> -->
 
 但行好事，莫问前程!
 
