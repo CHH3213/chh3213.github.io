@@ -8,8 +8,10 @@ toc: true
 mathjax: true
 coments: true
 date: 2022-12-03 20:03:13
-tags:
-category:
+tags: 美化
+category: 
+  - [页面美化]
+  - [Ubuntu]
 ---
 
 一般情况下，ubuntu默认的鼠标光标主题都比较不好看，所以我们可以通过以下方法进行修改。

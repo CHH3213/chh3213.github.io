@@ -1,7 +1,7 @@
 ---
 title: Github主页美化
-tags: 主页
-category: 主页美化
+tags: 美化
+category: 页面美化
 reward: true
 # toc: true
 cover: http://api.mtyqx.cn/tapi/random.php?1203
