@@ -9,7 +9,7 @@ mathjax: true
 coments: true
 date: 2023-02-23 12:04:38
 tags: chatgpt
-category: 使用技巧
+category: 实用技巧
 ---
 
 ChatGPT是基于深度学习的自然语言处理模型，具体来说，它是一个预训练的神经网络模型，使用了**Transformer架构**和**自回归语言建模技术**。
